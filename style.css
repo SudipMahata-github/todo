@@ -77,3 +77,9 @@ input {
   border: none;
   margin-left: 2px;
 }
+
+@media (max-width:480px){
+  .todo{
+    width: 95%;
+  }
+}
