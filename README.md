@@ -1,2 +1,1 @@
-# todo
-simple todo app
+https://basictodos.netlify.app/
